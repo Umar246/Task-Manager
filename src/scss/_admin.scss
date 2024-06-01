@@ -1,0 +1,18 @@
+.admin-task{
+    background-color: #eee;
+    min-height: 100vh;
+   
+    .inner{
+        min-height: 100vh;
+        background-color: #FAFAFA;
+    }
+}
+.adminTaskStyles{
+    overflow-y: scroll;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.adminTaskStyles::-webkit-scrollbar{
+display: none;
+}
+

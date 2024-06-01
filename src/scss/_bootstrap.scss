@@ -1,0 +1,9 @@
+$secondary: #A1DDFF;
+$light:#E1F1FD;
+$dark:#4F99FD;
+$danger:#e33205;
+$black:#1E1E1E;
+$primary:#A1DDFF;
+@import './auth';
+@import './admin';
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
